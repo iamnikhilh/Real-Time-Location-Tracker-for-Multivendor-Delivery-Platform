@@ -38,6 +38,11 @@ Make sure you have:
 - Node.js v16+
 - Git
 
+### To run 
+- npm install (install dependencies)
+- npm run dev
+- open the link (http://localhost:3000)
+
 ### Clone the Repo
 
 ```bash
